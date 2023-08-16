@@ -1,5 +1,6 @@
 # Stock_Data_Analysis
 Vba Scripting for Stocks
+
 Sub Stock_Data()
 
     Dim Change As Double
